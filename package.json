@@ -1,0 +1,19 @@
+{
+  "name": "integer-sequence",
+  "description": "A package providing integer sequence object wrapping range from Number.MIN_SAFE_INTEGER to Number.MAX_SAFE_INTEGER",
+  "main": "integer-sequence.js",
+  "keywords": [
+    "integer",
+    "sequence"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mk0x9/integer-sequence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk0x9/integer-sequence/issues",
+    "email": "me@mk9.name"
+  },
+  "author": "Michael Kuryshev <me@mk9.name>",
+  "license": "CC0"
+}
