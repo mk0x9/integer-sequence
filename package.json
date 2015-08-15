@@ -1,5 +1,6 @@
 {
   "name": "integer-sequence",
+  "version": "0.0.1",
   "description": "A package providing integer sequence object wrapping range from Number.MIN_SAFE_INTEGER to Number.MAX_SAFE_INTEGER",
   "main": "integer-sequence.js",
   "keywords": [
