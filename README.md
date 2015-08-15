@@ -1,4 +1,5 @@
 # Integer Sequence
+[![Build Status](https://travis-ci.org/mk0x9/integer-sequence.svg?branch=master)](https://travis-ci.org/mk0x9/integer-sequence)
 
 A package providing integer sequence object wrapping range from
 `Number.MIN_SAFE_INTEGER` to `Number.MAX_SAFE_INTEGER`.
