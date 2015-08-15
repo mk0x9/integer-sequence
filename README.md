@@ -1,7 +1,7 @@
 # Integer Sequence
 [![Build Status](https://travis-ci.org/mk0x9/integer-sequence.svg?branch=master)](https://travis-ci.org/mk0x9/integer-sequence)
 
-A package providing integer sequence object wrapping range from
+A package providing integer sequence object wrapping the range from
 `Number.MIN_SAFE_INTEGER` to `Number.MAX_SAFE_INTEGER`.
 
 ## Usage
@@ -19,4 +19,4 @@ seq.next(); // => -9007199254740991
 
 ## License
 
-Creative Commons Zero (CC0).
+Creative Commons Zero 1.0 Universal (CC0).

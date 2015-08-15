@@ -1,7 +1,7 @@
 {
   "name": "integer-sequence",
-  "version": "0.0.3",
-  "description": "A package providing integer sequence object wrapping range from Number.MIN_SAFE_INTEGER to Number.MAX_SAFE_INTEGER",
+  "version": "0.0.4",
+  "description": "A package providing integer sequence object wrapping the range from Number.MIN_SAFE_INTEGER to Number.MAX_SAFE_INTEGER",
   "main": "integer-sequence.js",
   "keywords": [
     "integer",
@@ -16,7 +16,7 @@
     "email": "me@mk9.name"
   },
   "author": "Michael Kuryshev <me@mk9.name>",
-  "license": "CC0",
+  "license": "CC0-1.0",
   "scripts": {
     "test": "node tests.js"
   },
