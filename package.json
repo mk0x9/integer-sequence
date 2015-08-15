@@ -16,5 +16,11 @@
     "email": "me@mk9.name"
   },
   "author": "Michael Kuryshev <me@mk9.name>",
-  "license": "CC0"
+  "license": "CC0",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "devDependencies": {
+    "jstest": "1.0.5"
+  }
 }
